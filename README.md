@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> As of 06/02/24, Vendetta has been discontinued.
+> This is a modern-day continuation of Vendetta that fixes problems.
 
 # Vendetta
 A mod for Discord's mobile apps.
