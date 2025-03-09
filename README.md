@@ -1,8 +1,11 @@
 > [!NOTE]  
 > This is a continuation of Vendetta that fixes problems & updated to support features.
 
-# Argument
-A (Vendetta Continuation) mod for Discord's mobile apps.
+<p align="left">
+    <img src="https://github.com/MadeByRedPCat/Argument/raw/rewrite/Images/Logo-dark.png#gh-dark-mode-only" width="420">
+    <img src="https://github.com/MadeByRedPCat/Argument/raw/rewrite/Images/Logo-light.png#gh-light-mode-only" width="420">
+</p>
+A Discord Mod based on Vendetta for Android.
 
 ## Installing
 Argument's codebase is platform-agnostic, but you need a platform-specific loader.
